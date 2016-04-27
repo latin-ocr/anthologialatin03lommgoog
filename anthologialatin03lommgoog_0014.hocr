@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./anthologialatin03lommgoog_0014.png"; bbox 0 0 2662 3922; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 444 1485 1015 1561">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 444 1485 1015 1561">
+     <span class='ocr_line' id='line_1_1' title="bbox 444 1485 1015 1561; baseline 0.005 -3"><span class='ocrx_word' id='word_1_1' title='bbox 444 1485 520 1558; x_wconf 85' lang='lat' dir='ltr'>DIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 540 1519 548 1536; x_wconf 95' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 566 1485 789 1559; x_wconf 85' lang='lat' dir='ltr'><strong>MANIBVS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1013 1556 1015 1561; x_wconf 79' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 83 1748 1129 1896">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 83 1708 1129 1896">
+     <span class='ocr_line' id='line_1_2' title="bbox 83 1748 1129 1896; baseline -0.001 -37"><span class='ocrx_word' id='word_1_5' title='bbox 83 1749 709 1896; x_wconf 77' lang='lat' dir='ltr'>IOHANNIS-BAPT</span> <span class='ocrx_word' id='word_1_6' title='bbox 730 1791 739 1813; x_wconf 94' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 760 1749 859 1859; x_wconf 73' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_8' title='bbox 878 1789 888 1812; x_wconf 92' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 908 1748 1129 1860; x_wconf 79' lang='lat' dir='ltr'>Ross1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 524 2056 924 2128">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 524 2056 924 2128">
+     <span class='ocr_line' id='line_1_3' title="bbox 524 2056 924 2128; baseline -0.008 0"><span class='ocrx_word' id='word_1_10' title='bbox 524 2056 715 2128; x_wconf 85' lang='lat' dir='ltr'><strong>ROMANI</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 921 2061 924 2067; x_wconf 77' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1336 3922">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1336 3922">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1336 3922; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1336 3922; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

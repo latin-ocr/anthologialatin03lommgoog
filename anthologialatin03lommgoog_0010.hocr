@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./anthologialatin03lommgoog_0010.png"; bbox 0 0 2662 3922; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 453 1481 1025 1559">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 453 1447 1025 1559">
+     <span class='ocr_line' id='line_1_1' title="bbox 453 1481 1025 1559; baseline 0.009 -5"><span class='ocrx_word' id='word_1_1' title='bbox 453 1481 530 1555; x_wconf 76' lang='lat' dir='ltr'>ms</span> <span class='ocrx_word' id='word_1_2' title='bbox 549 1516 558 1534; x_wconf 89' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 576 1482 799 1556; x_wconf 70' lang='lat' dir='ltr'>Mfflssvs</span> <span class='ocrx_word' id='word_1_4' title='bbox 1022 1554 1025 1559; x_wconf 83' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 47 1704 1139 1909">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 47 1704 1139 1909">
+     <span class='ocr_line' id='line_1_2' title="bbox 47 1704 1139 1909; baseline 0.001 -54"><span class='ocrx_word' id='word_1_5' title='bbox 47 1850 48 1909; x_wconf 68' lang='lat'><em>‚</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 92 1704 718 1893; x_wconf 66' lang='lat' dir='ltr'>IOHANNIS-Bm</span> <span class='ocrx_word' id='word_1_7' title='bbox 739 1788 748 1810; x_wconf 94' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 769 1746 1139 1858; x_wconf 67' lang='lat' dir='ltr'>Dmosffl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 534 2052 933 2125">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 534 2052 933 2125">
+     <span class='ocr_line' id='line_1_3' title="bbox 534 2052 933 2125; baseline -0.008 0"><span class='ocrx_word' id='word_1_9' title='bbox 534 2052 724 2125; x_wconf 81' lang='lat' dir='ltr'><strong>ROMANI</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 930 2059 933 2065; x_wconf 83' lang='grc'><em>’</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1336 3922">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1336 3922">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1336 3922; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1336 3922; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
